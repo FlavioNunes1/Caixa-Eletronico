@@ -42,9 +42,9 @@ int main() {
     do {
         printf("\nMenu:\n");
         printf("1 – Saldo\n");
-        printf("2 – Depósito\n");
+        printf("2 – Deposito\n");
         printf("3 – Saque\n");
-        printf("4 – Transferência\n");
+        printf("4 – Transferencia\n");
         printf("5 – Consultar Extrato\n");
         printf("0 – Sair\n");
         printf("Escolha uma opção: ");
